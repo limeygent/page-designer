@@ -157,10 +157,24 @@ Images are a conversion tool, not decoration. They create emotional connection, 
 
 - **Hero images:** For urgent/fear intent, consider T7 Full-Width Image Hero (image as background with text overlay). For planning/research intent, T4 Split Panel works (image in one column, text in the other).
 - **Every image placeholder should describe the ideal image:** subject, setting, mood, lighting. Not just "doctor photo" but "Friendly pediatrician examining child's throat, warm lighting, child comfortable, parent visible in background."
-- **Form placement by intent:** Forms are secondary conversion paths.
-  - **Urgent/fear intent (sick visits, emergencies, leaks):** No form on the page. The visitor will call. Phone number is the only CTA. Link to contact page for after-hours visitors.
-  - **Planning/research intent (cosmetic, remodels, consultations):** Form in the hero sidebar (T4 split panel) or standalone section. These visitors prefer submitting a request over calling.
-  - **Hybrid intent:** Phone CTA primary, form available but not prominent. Place form near the bottom after trust is built.
+- **Phone vs. form is determined by the service category, not just the emotional intent.** The nature of the service itself tells you how people prefer to convert:
+  - **Phone-only services (no form on page):** Anything where the visitor needs help NOW or within hours. Sick visits, emergency plumbing, urgent dental pain, same-day repairs, lockouts. These people will call. A "fill out this form and we'll call you back" is the opposite of what they need. Phone CTA only. Link to contact page for after-hours visitors.
+  - **Form-friendly services (form on page, often in hero):** Anything the visitor is planning or researching. Well-child visits, cosmetic consultations, pool installations, kitchen remodels, orthodontics, financial planning. These visitors often browse at night and prefer submitting a request over calling during business hours. Form in the hero sidebar (T4 split panel) or standalone section.
+  - **Hybrid services (phone primary, form secondary):** Services where some visitors are urgent and others are planning. General dentist pages, HVAC tune-ups, home inspections. Phone CTA is primary and prominent. Form exists but lower on the page, after trust is built. Not in the hero.
+
+  **Examples by niche:**
+  | Service Category | Conversion Type | Form? |
+  |---|---|---|
+  | Strep throat test, ear infection, sick visit | Phone-only | No |
+  | Emergency plumber, burst pipe, gas leak | Phone-only | No |
+  | Emergency dentist, toothache | Phone-only | No |
+  | Well-child visit, vaccinations, sports physical | Form-friendly | Yes (hero) |
+  | Cosmetic dentistry, veneers, whitening | Form-friendly | Yes (hero) |
+  | Pool installation, kitchen remodel | Form-friendly | Yes (hero) |
+  | Orthodontics, Invisalign | Form-friendly | Yes (hero) |
+  | General dentist, dental check-up | Hybrid | Yes (below fold) |
+  | HVAC maintenance, tune-up | Hybrid | Yes (below fold) |
+  | Roof inspection, home inspection | Hybrid | Yes (below fold) |
 - **Avoid anchor collision:** Be careful placing two competing visual elements of equal weight in the same section (image + form, image + large stat). If both need prominence, give each its own section.
 
 ## No Em-Dashes
